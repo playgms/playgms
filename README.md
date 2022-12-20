@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @playgms
+- 👋 Hi, I’m playgms
 - 👀 I’m interested in ... coding
-- 🌱 I’m currently learning ... c and javascript
+- 🌱 I’m currently learning ... c,c++,java,python,& javascript
 - ✨ I love exploring new things 
 - I am just a beginner, I don't know anything much and I'm new here. 
 <!---
